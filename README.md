@@ -1,2 +1,4 @@
-# springbootdemoapp
-Spring boot rest demo with hibernate entity manager
+
+# springdatajpaapp
+Spring boot data jpa project
+
